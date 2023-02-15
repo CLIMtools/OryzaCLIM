@@ -1,0 +1,417 @@
+lng	Longitude (degrees)	Coordinates	
+lat	Latitude (degrees)	Coordinates	
+ID	ID	-	
+Name	Name	-	
+SSP	SSP	-	
+COUNTRY	COUNTRY	-	
+CO_Spring	MOPITT Carbon monoxide spring (ppbv)	Measurements_of_Pollution_In_The_Troposphere_(MOPITT)	
+CO_Summer	MOPITT Carbon monoxide summer (ppbv)	Measurements_of_Pollution_In_The_Troposphere_(MOPITT)	
+LTemp_day_spring	MOD11C3 Average land surface day temperature spring (Celsius)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD11C3	
+LTemp_day_summer	MOD11C3 Average land surface day temperature summer (Celsius)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD11C3	
+Ltemp_night_spring	MOD11C3 Average land surface night temperature spring (Celsius)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD11C3	
+Ltemp_night_summer	MOD11C3 Average land Surface night temperature summer (Celsius)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD11C3	
+CHELSA_BIO1	CHELSA BIO1 = Annual mean temperature (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO2	CHELSA BIO2 = Mean diurnal range (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO3	CHELSA BIO3 = Isothermality (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO4	CHELSA BIO4 = Temperature seasonality (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO5	CHELSA BIO5 = Max temperature of warmest month (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO6	CHELSA BIO6 = Min temperature of coldest month (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO7	CHELSA BIO7 = Temperature annual range (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO8	CHELSA BIO8 = Mean temperature of wettest quarter (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO9	CHELSA BIO9 = Mean temperature of driest quarter (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO10	CHELSA BIO10 = Mean temperature of warmest quarter (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO11	CHELSA BIO11 = Mean temperature of coldest quarter (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO12	CHELSA BIO12 = Annual precipitation (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO13	CHELSA BIO13 = Precipitation of wettest month (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO14	CHELSA BIO14 = Precipitation of driest month (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO15	CHELSA BIO15 = Precipitation seasonality (coefficient of variation) (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO16	CHELSA BIO16 = Precipitation of wettest quarter (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO17	CHELSA BIO17 = Precipitation of driest quarter (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO18	CHELSA BIO18 = Precipitation of warmest quarter (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_BIO19	CHELSA BIO19 = Precipitation of coldest quarter (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_Pre_spring	CHELSA Precipitation Spring (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_Pre_summer	CHELSA Precipitation Summer (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_Interann_pre	CHELSA Interannual precipitation  (mm)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_Interann_temp	CHELSA Interannual Temperature  (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_Tmean_spring	CHELSA Average temperature spring (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_Tmean_summer	CHELSA Average temperature summer (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_Tmax_spring	CHELSA Maximum temperature spring (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_Tmax_summer	CHELSA Maximum temperature summer (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_Tmin_spring	CHELSA Minimum temperature spring (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CHELSA_Tmin_summer	CHELSA Minimum temperature summer (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)	
+CMCC_BIOCLIM_BIO1	BIO1 = Annual mean temperature ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO2	BIO2 = Mean diurnal range ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO3	BIO3 = Isothermality (%)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO4	BIO4 = Temperature seasonality ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO5	BIO5 = Max temperature of warmest month ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO6	BIO6 = Min temperature of coldest month ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO7	BIO7 = Temperature annual range ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO8	BIO8 = Mean temperature of wettest quarter ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO9	BIO9 = Mean temperature of driest quarter ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO10	BIO10 = Mean temperature of warmest quarter ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO11	BIO11 = Mean temperature of coldest quarter ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO12	BIO12 = Annual precipitation (mm)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO13	BIO13 = Precipitation of wettest month (mm)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO14	BIO14 = Precipitation of driest month (mm)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO15	BIO15 = Precipitation seasonality (%)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO16	BIO16 = Precipitation of wettest quarter (mm)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO17	BIO17 = Precipitation of driest quarter (mm)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO18	BIO18 = Precipitation of warmest quarter (mm)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO19	BIO19 = Precipitation of coldest quarter (mm)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO20	BIO20 = Ellenberg quotient ( Celsius/mm)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO21	BIO21 = Yearly positive temperature ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO22	BIO22 = Sum of annual temperature ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO23	BIO23 = Ombrotermic index (mm/ Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO24	BIO24 = Yearly positive precipitation (mm)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO25	BIO25 = Modified Kira coldness index ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO26	BIO26 = Modified Kira warmth index ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO27	BIO27 = Simplified continentality index ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO28	BIO28 = Mean temperature of warmest month ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO29	BIO29 = Mean temperature of coldest month ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO30	BIO30 = Mean temperature of driest month ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO31	BIO31 = Mean temperature of wettest month ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO32	BIO32 = Modified Thermicity index ( Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO33	BIO33 = Ombrothermic index of summer and the previous month (mm/ Celsius)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO34	BIO34 = Potential Evapotranspiration Hargreaves (mm)	CMCC-BioClimInd	
+CMCC_BIOCLIM_BIO35	BIO35 = Potential Evapotranspiration Thornthwaite (mm)	CMCC-BioClimInd	
+EDO_FAPAR_Spring	Fraction of Absorbed Photosynthetically Active Radiation (Ratio)	European_Drought_Observatory	
+EDO_FAPAR_Summer	Fraction of Absorbed Photosynthetically Active Radiation (Ratio)	European_Drought_Observatory	
+EDO_SPI_spring	Standardized Precipitation Index (Index)	European_Drought_Observatory	
+EDO_SPI_summer	Standardized Precipitation Index (Index)	European_Drought_Observatory	
+Carbon_storage	Carbon Stocks in Potential Natural Vegetation (tons C/ha)	EARTHSTAT	
+Nitrogen_Balance_On_Landscape	Nitrogen Balance On Landscape (Index)	EARTHSTAT	
+PhosphorusBalanceOnLandscape	PhosphorusBalanceOnLandscape (index)	EARTHSTAT	
+WaterDepletionCat_WG3	WaterGAP3 Water depletion (%)	EARTHSTAT	
+GISS_Global_temperature_anomaly_monthly_spring	GISS Global temperature anomaly monthly spring (Celsius)	NASA’s Goddard Institute for Space Studies’ (GISS)	
+GISS_Global_temperature_anomaly_montly_summer	GISS Global temperature anomaly montly summer (Celsius)	NASA’s Goddard Institute for Space Studies’ (GISS)	
+GISS_Global_temperature_anomaly_yearly	GISS Global temperature anomaly yearly (Celsius)	NASA’s Goddard Institute for Space Studies’ (GISS)	
+GMT_intermediate_coast_distance	GSHHG distance to the coast (Km)	NASAs Ocean Biology Processing Group	
+Growing_degree_days	CRU Growing degree days above 5 Celsius (days)	Nelson_institute_Atlas of the Biosphere 	
+LAI_Spring	MOD16A2 Leaf area index during spring (m2/m2)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD15A2	
+LAI_Summer	MOD16A2 Leaf area index during summer (m2/m2)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD15A2	
+Precipitable_water_spring	MOD05L2 Total precipitable water (water vapor) spring (cm)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD05L2	
+Precipitable_water_summer	MOD05L2 Total precipitable water (water vapor) summer (cm)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD05L2	
+MERRAclimmax_00s_bio1	MerraCLIM 2000s BIO1 = Annual temperature: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio2	MerraCLIM 2000s BIO2 = Mean diurnal range: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio3	MerraCLIM 2000s BIO3 = Isothermality: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio4	MerraCLIM 2000s BIO4 = Temperature seasonality: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio5	MerraCLIM 2000s BIO5 = Max temperature of warmest month: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio6	MerraCLIM 2000s BIO6 = Min temperature of coldest month: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio7	MerraCLIM 2000s BIO7 = Temperature annual range: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio8	MerraCLIM 2000s BIO8 = Mean temperature of wettest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio9	MerraCLIM 2000s BIO9 = Mean temperature of driest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio10	MerraCLIM 2000s BIO10 = Mean temperature of warmest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio11	MerraCLIM 2000s BIO11 = Mean temperature of coldest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio12	MerraCLIM 2000s BIO12 = Annual precipitation: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio13	MerraCLIM 2000s BIO13 = Precipitation of wettest month: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio14	MerraCLIM 2000s BIO14 = Precipitation of driest month: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio15	MerraCLIM 2000s BIO15 = Precipitation seasonality (coefficient of variation): maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio16	MerraCLIM 2000s BIO16 = Precipitation of wettest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio17	MerraCLIM 2000s BIO17 = Precipitation of driest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio18	MerraCLIM 2000s BIO18 = Precipitation of warmest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_00s_bio19	MerraCLIM 2000s BIO19 = Precipitation of coldest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio1	MerraCLIM 1980s BIO1 = Annual temperature: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio2	MerraCLIM 1980s BIO2 = Mean diurnal range: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio3	MerraCLIM 1980s BIO3 = Isothermality: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio4	MerraCLIM 1980s BIO4 = Temperature seasonality: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio5	MerraCLIM 1980s BIO5 = Max temperature of warmest month: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio6	MerraCLIM 1980s BIO6 = Min temperature of coldest month: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio7	MerraCLIM 1980s BIO7 = Temperature annual range: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio8	MerraCLIM 1980s BIO8 = Mean temperature of wettest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio9	MerraCLIM 1980s BIO9 = Mean temperature of driest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio10	MerraCLIM 1980s BIO10 = Mean temperature of warmest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio11	MerraCLIM 1980s BIO11 = Mean temperature of coldest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio12	MerraCLIM 1980s BIO12 = Annual precipitation: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio13	MerraCLIM 1980s BIO13 = Precipitation of wettest month: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio14	MerraCLIM 1980s BIO14 = Precipitation of driest month: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio15	MerraCLIM 1980s BIO15 = Precipitation seasonality (coefficient of variation): maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio16	MerraCLIM 1980s BIO16 = Precipitation of wettest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio17	MerraCLIM 1980s BIO17 = Precipitation of driest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio18	MerraCLIM 1980s BIO18 = Precipitation of warmest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_80s_bio19	MerraCLIM 1980s BIO19 = Precipitation of coldest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio1	MerraCLIM 1990s BIO1 = Annual temperature: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio2	MerraCLIM 1990s BIO2 = Mean diurnal range: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio3	MerraCLIM 1990s BIO3 = Isothermality: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio4	MerraCLIM 1990s BIO4 = Temperature seasonality: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio5	MerraCLIM 1990s BIO5 = Max temperature of warmest month: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio6	MerraCLIM 1990s BIO6 = Min temperature of coldest month: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio7	MerraCLIM 1990s BIO7 = Temperature annual range: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio8	MerraCLIM 1990s BIO8 = Mean temperature of wettest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio9	MerraCLIM 1990s BIO9 = Mean temperature of driest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio10	MerraCLIM 1990s BIO10 = Mean temperature of warmest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio11	MerraCLIM 1990s BIO11 = Mean temperature of coldest quarter: maximum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio12	MerraCLIM 1990s BIO12 = Annual precipitation: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio13	MerraCLIM 1990s BIO13 = Precipitation of wettest month: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio14	MerraCLIM 1990s BIO14 = Precipitation of driest month: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio15	MerraCLIM 1990s BIO15 = Precipitation seasonality (coefficient of variation): maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio16	MerraCLIM 1990s BIO16 = Precipitation of wettest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio17	MerraCLIM 1990s BIO17 = Precipitation of driest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio18	MerraCLIM 1990s BIO18 = Precipitation of warmest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmax_90s_bio19	MerraCLIM 1990s BIO19 = Precipitation of coldest quarter: maximum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio1	MerraCLIM 2000s BIO1 = Annual temperature: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio2	MerraCLIM 2000s BIO2 = Mean diurnal range: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio3	MerraCLIM 2000s BIO3 = Isothermality: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio4	MerraCLIM 2000s BIO4 = Temperature seasonality: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio5	MerraCLIM 2000s BIO5 = Max temperature of warmest month: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio6	MerraCLIM 2000s BIO6 = Min temperature of coldest month: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio7	MerraCLIM 2000s BIO7 = Temperature annual range: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio8	MerraCLIM 2000s BIO8 = Mean temperature of wettest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio9	MerraCLIM 2000s BIO9 = Mean temperature of driest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio10	MerraCLIM 2000s BIO10 = Mean temperature of warmest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio11	MerraCLIM 2000s BIO11 = Mean temperature of coldest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio12	MerraCLIM 2000s BIO12 = Annual precipitation: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio13	MerraCLIM 2000s BIO13 = Precipitation of wettest month: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio14	MerraCLIM 2000s BIO14 = Precipitation of driest month: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio15	MerraCLIM 2000s BIO15 = Precipitation seasonality (coefficient of variation): mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio16	MerraCLIM 2000s BIO16 = Precipitation of wettest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio17	MerraCLIM 2000s BIO17 = Precipitation of driest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio18	MerraCLIM 2000s BIO18 = Precipitation of warmest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_00s_bio19	MerraCLIM 2000s BIO19 = Precipitation of coldest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio1	MerraCLIM 1980s BIO1 = Annual temperature: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio2	MerraCLIM 1980s BIO4 = Temperature seasonality: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio3	MerraCLIM 1980s BIO5 = Max temperature of warmest month: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio4	MerraCLIM 1980s BIO6 = Min temperature of coldest month: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio5	MerraCLIM 1980s BIO7 = Temperature annual range: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio6	MerraCLIM 1980s BIO8 = Mean temperature of wettest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio7	MerraCLIM 1980s BIO9 = Mean temperature of driest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio8	MerraCLIM 1980s BIO10 = Mean temperature of warmest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio9	MerraCLIM 1980s BIO11 = Mean temperature of coldest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio10	MerraCLIM 1980s BIO12 = Annual precipitation: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio11	MerraCLIM 1980s BIO13 = Precipitation of wettest month: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio12	MerraCLIM 1980s BIO14 = Precipitation of driest month: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio13	MerraCLIM 1980s BIO15 = Precipitation seasonality (coefficient of variation): mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio14	MerraCLIM 1980s BIO16 = Precipitation of wettest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio15	MerraCLIM 1980s BIO17 = Precipitation of driest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio16	MerraCLIM 1980s BIO18 = Precipitation of warmest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio17	MerraCLIM 1980s BIO19 = Precipitation of coldest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio18	MerraCLIM 1980s BIO2 = Mean diurnal range: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_80s_bio19	MerraCLIM 1980s BIO3 = Isothermality: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio1	MerraCLIM 1990s BIO1 = Annual temperature: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio2	MerraCLIM 1990s BIO2 = Mean diurnal range: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio3	MerraCLIM 1990s BIO3 = Isothermality: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio4	MerraCLIM 1990s BIO4 = Temperature seasonality: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio5	MerraCLIM 1990s BIO5 = Max temperature of warmest month: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio6	MerraCLIM 1990s BIO6 = Min temperature of coldest month: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio7	MerraCLIM 1990s BIO7 = Temperature annual range: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio8	MerraCLIM 1990s BIO8 = Mean temperature of wettest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio9	MerraCLIM 1990s BIO9 = Mean temperature of driest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio10	MerraCLIM 1990s BIO10 = Mean temperature of warmest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio11	MerraCLIM 1990s BIO11 = Mean temperature of coldest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio12	MerraCLIM 1990s BIO12 = Annual precipitation: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio13	MerraCLIM 1990s BIO13 = Precipitation of wettest month: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio14	MerraCLIM 1990s BIO14 = Precipitation of driest month: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio15	MerraCLIM 1990s BIO15 = Precipitation seasonality (coefficient of variation): mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio16	MerraCLIM 1990s BIO16 = Precipitation of wettest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio17	MerraCLIM 1990s BIO17 = Precipitation of driest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio18	MerraCLIM 1990s BIO18 = Precipitation of warmest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmean_90s_bio19	MerraCLIM 1990s BIO19 = Precipitation of coldest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio1	MerraCLIM 2000s BIO1 = Annual temperature: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio2	MerraCLIM 2000s BIO2 = Mean diurnal range: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio3	MerraCLIM 2000s BIO3 = Isothermality: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio4	MerraCLIM 2000s BIO4 = Temperature seasonality: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio5	MerraCLIM 2000s BIO5 = Max temperature of warmest month: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio6	MerraCLIM 2000s BIO6 = Min temperature of coldest month: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio7	MerraCLIM 2000s BIO7 = Temperature annual range: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio8	MerraCLIM 2000s BIO8 = Mean temperature of wettest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio9	MerraCLIM 2000s BIO9 = Mean temperature of driest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio10	MerraCLIM 2000s BIO10 = Mean temperature of warmest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio11	MerraCLIM 2000s BIO11 = Mean temperature of coldest quarter: mean (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio12	MerraCLIM 2000s BIO12 = Annual precipitation: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio13	MerraCLIM 2000s BIO13 = Precipitation of wettest month: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio14	MerraCLIM 2000s BIO14 = Precipitation of driest month: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio15	MerraCLIM 2000s BIO15 = Precipitation seasonality (coefficient of variation): mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio16	MerraCLIM 2000s BIO16 = Precipitation of wettest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio17	MerraCLIM 2000s BIO17 = Precipitation of driest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio18	MerraCLIM 2000s BIO18 = Precipitation of warmest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_00s_bio19	MerraCLIM 2000s BIO19 = Precipitation of coldest quarter: mean (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio1	MerraCLIM 1980s BIO1 = Annual temperature: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio2	MerraCLIM 1980s BIO2 = Mean diurnal range: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio3	MerraCLIM 1980s BIO3 = Isothermality: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio4	MerraCLIM 1980s BIO4 = Temperature seasonality: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio5	MerraCLIM 1980s BIO5 = Max temperature of warmest month: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio6	MerraCLIM 1980s BIO6 = Min temperature of coldest month: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio7	MerraCLIM 1980s BIO7 = Temperature annual range: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio8	MerraCLIM 1980s BIO8 = Mean temperature of wettest quarter: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio9	MerraCLIM 1980s BIO9 = Mean temperature of driest quarter: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio10	MerraCLIM 1980s BIO10 = Mean temperature of warmest quarter: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio11	MerraCLIM 1980s BIO11 = Mean temperature of coldest quarter: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio12	MerraCLIM 1980s BIO12 = Annual precipitation: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio13	MerraCLIM 1980s BIO13 = Precipitation of wettest month: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio14	MerraCLIM 1980s BIO14 = Precipitation of driest month: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio15	MerraCLIM 1980s BIO15 = Precipitation seasonality (coefficient of variation): minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio16	MerraCLIM 1980s BIO16 = Precipitation of wettest quarter: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio17	MerraCLIM 1980s BIO17 = Precipitation of driest quarter: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio18	MerraCLIM 1980s BIO18 = Precipitation of warmest quarter: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_80s_bio19	MerraCLIM 1980s BIO19 = Precipitation of coldest quarter: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio1	MerraCLIM 1990s BIO1 = Annual temperature: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio2	MerraCLIM 1990s BIO2 = Mean diurnal range: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio3	MerraCLIM 1990s BIO3 = Isothermality: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio4	MerraCLIM 1990s BIO4 = Temperature seasonality: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio5	MerraCLIM 1990s BIO5 = Max temperature of warmest month: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio6	MerraCLIM 1990s BIO6 = Min temperature of coldest month: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio7	MerraCLIM 1990s BIO7 = Temperature annual range: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio8	MerraCLIM 1990s BIO8 = Mean temperature of wettest quarter: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio9	MerraCLIM 1990s BIO9 = Mean temperature of driest quarter: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio10	MerraCLIM 1990s BIO10 = Mean temperature of warmest quarter: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio11	MerraCLIM 1990s BIO11 = Mean temperature of coldest quarter: minimum (Celsius)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio12	MerraCLIM 1990s BIO12 = Annual precipitation: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio13	MerraCLIM 1990s BIO13 = Precipitation of wettest month: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio14	MerraCLIM 1990s BIO14 = Precipitation of driest month: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio15	MerraCLIM 1990s BIO15 = Precipitation seasonality (coefficient of variation): minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio16	MerraCLIM 1990s BIO16 = Precipitation of wettest quarter: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio17	MerraCLIM 1990s BIO17 = Precipitation of driest quarter: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio18	MerraCLIM 1990s BIO18 = Precipitation of warmest quarter: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+MERRAclimmin_90s_bio19	MerraCLIM 1990s BIO19 = Precipitation of coldest quarter: minimum (kg of water/kg of air)	MERRAclim:_high_resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling	
+Envirem_annual_PET	Envirem annual PET (mm / year)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_Aridity_Index_Thornthwaite	Envirem Aridity Index Thornthwaite (Index)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_Climatic_Moisture_Index	Envirem Climatic Moisture Index (Index)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_Continentality	Envirem Continentality (Index)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_Emberger_pluviothermic_quotient	Envirem Emberger pluviothermic quotient (Index)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_Growing_Degree_Days_0C	Envirem Growing Degree Days 0C (days)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_Growing_Degree_Days_5C	Envirem Growing Degree Days 5C (days)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_Max_Temp_Coldest_Month	Envirem Max Temp Coldest Month (Celsius)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_Min_Temp_Warmest_Month	Envirem Min Temp Warmest Month (Celsius)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_Month_Count_By_Temp_10C	Envirem Month Count By Temp 10C (months)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_PET_Coldest_Quarter	Envirem PET Coldest Quarter (mm/month)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_PET_Driest_Quarter	Envirem PET Driest Quarter (mm/month)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_PET_seasonality	Envirem PET seasonality (mm/month)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_PET_Warmest_Quarter	Envirem PET Warmest Quarter (mm/month)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_PET_Wettest_Quarter	Envirem PET Wettest Quarter (mm/month)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+Envirem_Thermicity_Index	Envirem Thermicity Index (Index)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0	
+CRU_Pre_spring	CRU Precipitation spring (mm)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Cld_spring	CRU Cloud cover spring (%)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Dtr_spring	CRU Diurnal temperature range spring (ºC)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Frs_spring	CRU Frost day frequency spring (days)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_PET_spring	CRU Potential evapotranspiration spring (mm)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Tmn_spring	CRU Monthly average daily minimum temperature spring (ºC)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Tmp_spring	CRU Daily mean temperature spring (ºC)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Tmx_spring	CRU Monthly average daily maximum temperature spring (ºC)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Vap_spring	CRU Vapour pressure spring (hPa)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Wet_spring	CRU Wet day frequency spring (days)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Pre_summer	CRU Precipitation summer (mm)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Cld_summer	CRU Cloud cover summer (%)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Dtr_summer	CRU Diurnal temperature range summer (ºC)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Frs_summer	CRU Frost day frequency summer (days)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_PET_summer	CRU Potential evapotranspiration summer (mm)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Tmp_summer	CRU Daily mean temperature summer (ºC)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Tmx_summer	CRU Monthly average daily maximum temperature summer (ºC)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Vap_summer	CRU Vapour pressure summer (hPa)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+CRU_Wet_summer	CRU Wet day frequency summer (days)	Consortium_for_Spatial_Information_(CGIAR_CSI)._CRU_TS_v3.10.01_Historic_Climate_Database_for_GIS	
+Net_radiation_spring	FLASHFlux Net radiation spring (W/m2)	FLASHFlux	
+Net_radiation_summer	FLASHFlux Net radiation summer (W/m2)	FLASHFlux	
+GPCC_Spring	GPCC Precipitation spring (mm)	GPCC_Global_Precipitation_Climatology_Centre__Full_Data_Reanalysis_Version_7	
+GPCC_Summer	GPCC Precipitation summer (mm)	GPCC_Global_Precipitation_Climatology_Centre__Full_Data_Reanalysis_Version_7	
+Solar_insolation_spring	CERES Solar insolation spring (W/m2)	Clouds_and_Earth's_Radiant_Energy_System_(CERES)	
+Solar_insolation_summer	CERES Solar insolation summer (W/m2)	Clouds_and_Earth's_Radiant_Energy_System_(CERES)	
+UV_index_spring	OMI UV index spring (NASA Earth Observations)	Ozone_Monitoring_Instrument_(OMI)	
+UV_index_Summer	OMI UV index summer (NASA Earth Observations)	Ozone_Monitoring_Instrument_(OMI)	
+SMN_Spring	AVHRR Smoothed NDVI spring (Index)	AVHRR_Vegetation_Health_Product_(NOAA_STAR)	
+SMN_Summer	AVHRR Smoothed NDVI summer (Index)	AVHRR_Vegetation_Health_Product_(NOAA_STAR)	
+SMT_Spring	AVHRR Smoothed Brightness Temperature summer (Index)	AVHRR_Vegetation_Health_Product_(NOAA_STAR)	
+SMT_Summer	AVHRR Smoothed Brightness Temperature spring (Index)	AVHRR_Vegetation_Health_Product_(NOAA_STAR)	
+TCI_Spring	AVHRR Temperature Condition Index spring (Index)	AVHRR_Vegetation_Health_Product_(NOAA_STAR)	
+TCI_Summer	AVHRR Temperature Condition Index summer (Index)	AVHRR_Vegetation_Health_Product_(NOAA_STAR)	
+VCI_Spring	AVHRR Vegetation Condition Index spring (Index)	AVHRR_Vegetation_Health_Product_(NOAA_STAR)	
+VCI_Summer	AVHRR Vegetation Condition Index summer (Index)	AVHRR_Vegetation_Health_Product_(NOAA_STAR)	
+VHI_Spring	AVHRR Vegetation Health Index spring (Index)	AVHRR_Vegetation_Health_Product_(NOAA_STAR)	
+VHI_Summer	AVHRR Vegetation Health Index summer (Index)	AVHRR_Vegetation_Health_Product_(NOAA_STAR)	
+GOSIF_GPP_Spring	OCO 2 based SIF product GPP Spring (g C m 2 mo 1 )	UNH Global Ecology Group Data Repository	
+GOSIF_GPP_Summer	OCO 2 based SIF product GPP Wummer (g C m 2 mo 1 )	UNH Global Ecology Group Data Repository	
+MOD16A2_Aridity_index	MOD16A2 Aridity index  (Index)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD16A2	
+MOD16A2_Climatic_water_deficit	MOD16A2 Climatic water deficity  (mm/yr)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD16A2	
+MOD16A2_Number_of_dry_months	MOD16A2 Number of dry months (days)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD16A2	
+GPP_VPM	GPP based on vegetation phosotynthesis model (VPM) (g C m 2 day 1)	GPP from Vegetation Photosynthesis Model	
+MOD16A2_ET	MOD16A2 Global evapotranspiration (ET) (mm/yr)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD16A2	
+MOD16A2_LE	MOD16A2 Global latent heat flux (LE) (W/m2)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD16A2	
+MOD16A2_PET	MOD16A2 Global potential evapotranspiration (PET) (mm/yr)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD16A2	
+GTOPO30_Elevation	GTOPO30 Elevation (meters)	USGS EROS Archive	
+GDEM_Global_Digital_Elevation_Map	GDEM Global Digital Elevation Map (meters)	ASTER GDEM V3	
+SRTM_Elevation	SRTM 90m Digital Elevation Database v4.1 (m)	NASA_Shuttle_Radar_Topographic_Mission_(SRTM)	
+WC2_BIO1	WorldClim BIO1 = Annual mean temperature (Celsius)	WorldClim_Version_2.1	
+WC2_BIO2	WorldClim BIO2 = Mean diurnal range (Celsius)	WorldClim_Version_2.1	
+WC2_BIO3	WorldClim BIO3 = Isothermality (Celsius)	WorldClim_Version_2.1	
+WC2_BIO4	WorldClim BIO4 = Temperature seasonality (Celsius)	WorldClim_Version_2.1	
+WC2_BIO5	WorldClim BIO5 = Max temperature of warmest month (Celsius)	WorldClim_Version_2.1	
+WC2_BIO6	WorldClim BIO6 = Min temperature of coldest month (Celsius)	WorldClim_Version_2.1	
+WC2_BIO7	WorldClim BIO7 = Temperature annual range (Celsius)	WorldClim_Version_2.1	
+WC2_BIO8	WorldClim BIO8 = Mean temperature of wettest quarter (Celsius)	WorldClim_Version_2.1	
+WC2_BIO9	WorldClim BIO9 = Mean temperature of driest quarter (Celsius)	WorldClim_Version_2.1	
+WC2_BIO10	WorldClim BIO10 = Mean temperature of warmest quarter (Celsius)	WorldClim_Version_2.1	
+WC2_BIO11	WorldClim BIO11 = Mean temperature of coldest quarter (Celsius)	WorldClim_Version_2.1	
+WC2_BIO12	WorldClim BIO12 = Annual precipitation (mm)	WorldClim_Version_2.1	
+WC2_BIO13	WorldClim BIO13 = Precipitation of wettest month (mm)	WorldClim_Version_2.1	
+WC2_BIO14	WorldClim BIO14 = Precipitation of driest month (mm)	WorldClim_Version_2.1	
+WC2_BIO15	WorldClim BIO15 = Precipitation seasonality (mm)	WorldClim_Version_2.1	
+WC2_BIO16	WorldClim BIO16 = Precipitation of wettest quarter (mm)	WorldClim_Version_2.1	
+WC2_BIO17	WorldClim BIO17 = Precipitation of driest quarter (mm)	WorldClim_Version_2.1	
+WC2_BIO18	WorldClim BIO18 = Precipitation of warmest quarter (mm)	WorldClim_Version_2.1	
+WC2_BIO19	WorldClimBIO19 = Precipitation of coldest quarter (mm)	WorldClim_Version_2.1	
+WC2_Elevation	WorldClim elevation (m)	WorldClim_Version_2.1	
+WC2_Pre_spring	WorldClim precipitation spring (mm)	WorldClim_Version_2.1	
+WC2_Pre_summer	WorldClim precipitation summer (mm)	WorldClim_Version_2.1	
+WC2_Solar_radiation_spring	WorldClim solar radiation spring (kJ m 2 day 1)	WorldClim_Version_2.1	
+WC2_Solar_radiation_summer	WorldClim solar radiation summer (kJ m 2 day 1)	WorldClim_Version_2.1	
+WC2_Average_temperature_spring	WorldClim Maximum temperature spring (Celsius)	WorldClim_Version_2.1	
+WC2_Average_temperature_summer	WorldClim Maximum temperature summer (Celsius)	WorldClim_Version_2.1	
+WC2_Tmax_spring	WorldClim Minimum temperature spring (Celsius)	WorldClim_Version_2.1	
+WC2_Tmax_summer	WorldClim Minimum temperature summer (Celsius)	WorldClim_Version_2.1	
+WC2_Tmin_spring	WorldClim Minimum temperature spring (Celsius)	WorldClim_Version_2.1	
+WC2_Tmin_summer	WorldClim Minimum temperature summer (Celsius)	WorldClim_Version_2.1	
+WC2_Water_vapor_pressure_spring	WorldClim average temperature spring (Celsius)	WorldClim_Version_2.1	
+WC2_Water_vapor_pressure_summer	WorldClim average temperature summer (Celsius)	WorldClim_Version_2.1	
+WB_DIF	WORLD BANK Diffuse horizontal irradiation (kWh/m2)	WORLD_BANK_Global_Solar_Atlas	
+WB_DNI	WORLD BANK Direct normal irradiation (kWh/m2)	WORLD_BANK_Global_Solar_Atlas	
+WB_ELE	WORLD BANK Terrain elevation above sea level (meters)	WORLD_BANK_Global_Solar_Atlas	
+WB_GHI	WORLD BANK Global horizontal irradiation (kWh/m2)	WORLD_BANK_Global_Solar_Atlas	
+WB_GTI	WORLD BANK Global irradiation for optimally tilted surface (kWh/m2)	WORLD_BANK_Global_Solar_Atlas	
+WB_OPTA	WORLD BANK Optimum tilt to maximize yearly yield (degrees)	WORLD_BANK_Global_Solar_Atlas	
+WB_PVOUT	WORLD BANK Photovoltaic power potential  (kWh/kWp)	WORLD_BANK_Global_Solar_Atlas	
+WB_TEMP	WORLD BANK Air temperature at 2 m above ground level (Celsius)	WORLD_BANK_Global_Solar_Atlas	
+NO2_Spring	OMI Nitrogen dioxide spring (billion molecules/mm2)	Ozone_Monitoring_Instrument_(OMI)	
+O3_Spring	OMI Ozone spring (Dobson Units)	Ozone_Monitoring_Instrument_(OMI)	
+O3_Summer	OMI Ozone summer (Dobson Units)	Ozone_Monitoring_Instrument_(OMI)	
+NDVI_Spring	MOD13Q1 Normalized difference vegetation index spring (Index)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD13Q1	
+NDVI_Summer	MOD13Q1 Normalized difference vegetation index summer (Index)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD13Q1	
+SIB3_carbon_flux_spring	SIB3 carbon flux spring (mol/m2/seg)	SiB3_Modeled_Global_1_degree_Hourly_Biosphere_Atmosphere_Carbon_Flux	
+SIB3_carbon_flux_summer	SIB3 carbon flux summer (mol/m2/seg)	SiB3_Modeled_Global_1_degree_Hourly_Biosphere_Atmosphere_Carbon_Flux	
+Water_equivalent_anomaly_summer	GRACE Water equivalent anomaly summer (cm)	Gravity_Recovery_and_Climate_Experiment_(GRACE)	
+NPP_Spring	MOD17A2 Net primary productivity spring (gC/m2/day)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD17A2	
+NPP_summer	MOD17A2 Net primary productivity summer (gC/m2/day)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD17A2	
+GPP_Spring	MOD17A2 Gross primary productivity spring (gC/m2/day)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD17A2	
+GPP_Summer	MOD17A2 Gross primary productivity summer (gC/m2/day)	Moderate_resolution_imaging_spectroradiometer_(MODIS):_MOD17A2	
+ORNL_aboveground_biomass	Aboveground  biomass carbon density (MgC ha 1)	Global aboveground and belowground biomass carbon density maps for the year 2010	
+ORNL_belowground_biomass	Aboveground  biomass carbon density (MgC ha 1)	Global aboveground and belowground biomass carbon density maps for the year 2010	
+HWSD_Subsoil_ref_bulk_dens	HWSD Topsoil reference bulk density (kg/dm3)	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Subsoil_clay_fraction	HWSD Subsoil clay fraction (%)	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Subsoil_gravel_content	HWSD Subsoil gravel content (%)	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Subsoil_organic_carbon	HWSD Subsoil organic carbon (%)	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Subsoil_pH	HWSD Subsoil pH (# log(H+))	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Subsoil_silt_fraction	HWSD Subsoil silt fraction (%)	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Subsoil_sand_fraction	HWSD Subsoil sand fraction (%)	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Topsoil_ref_bulk_dens	HWSD Subsoil reference bulk density (kg/dm3)	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Topsoil_clay_fraction	HWSD Topsoil clay fraction (%)	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Topsoil_gravel_content	HWSD Topsoil gravel content (%)	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Topsoil_pH	HWSD Topsoil pH (# log(H+))	FAO_Harmonized_World_Soil_Database_v_1.2	
+HWSD_Topsoil_silt_fraction	HWSD Topsoil silt fraction (%)	FAO_Harmonized_World_Soil_Database_v_1.2	
+SoilGrids_Acid_subsoil_grade	SoilGrids Acid sub-soils grade (grade)	ISRIC_Soilgrids	
+SoilGrids_Plant_vailable_soil_water_capacity_h1	SoilGrids Available soil water capacity (volumetric fraction) for h1 (%)	ISRIC_Soilgrids	
+SoilGrids_Plant_vailable_soil_water_capacity_h2	SoilGrids Available soil water capacity (volumetric fraction) for h2 (%)	ISRIC_Soilgrids	
+SoilGrids_Plant_vailable_soil_water_capacity_h3	SoilGrids Available soil water capacity (volumetric fraction) for h3 (%)	ISRIC_Soilgrids	
+SoilGrids_Plant_vailable_soil_water_capacity_t5	SoilGrids Saturated water content (volumetric fraction) for tS (%)	ISRIC_Soilgrids	
+SoilGrids_Depth_to_bedrock	SoilGrids Absolute depth to bedrock (in cm) (cm)	ISRIC_Soilgrids	
+SoilGrids_Probability_R_horizon	SoilGrids Probability of occurrence of R horizon (%)	ISRIC_Soilgrids	
+SoilGirds_Absolute_depth_to_bedrock	SoilGrids Absolute depth to bedrock (in cm) (cm)	ISRIC_Soilgrids	
+SoilGrids_Bulk_density	SoilGrids bulk density (kg/m3)	ISRIC_Soilgrids	
+SoilGrids_Cation_exchange_capacity	SoilGrids cation exchange capacity of soil (meq/100 g)	ISRIC_Soilgrids	
+SoilGrids_Clay_content	SoilGrids clay content (%)	ISRIC_Soilgrids	
+SoilGrids_Coarse_fragments_volumetric	SoilGrids course fragments volumetric (%)	ISRIC_Soilgrids	
+SoilGrids_Soil_organic_carbon_density	SoilGrids Soil organic carbon density in kg per cubic-m (kg / cubic-m)	ISRIC_Soilgrids	
+SoilGrids_Soil_organic_carbon_stock	SoilGrids soil organic carbon stock per ha (kg/m3)	ISRIC_Soilgrids	
+SoilGrids_Soil_organic_carbon_content	SoilGrids soil organic carbon content (‰)	ISRIC_Soilgrids	
+SoilGrids_pH_in_H2O	SoilGrids soil pH H2O (# log(H+))	ISRIC_Soilgrids	
+SoilGrids_pH_in_KCl	SoilGrids soil pH KCL (# log(H+))	ISRIC_Soilgrids	
+SoilGrids_Sodic_soil_grade	SoilGrids Sodic soil grade (grade)	ISRIC_Soilgrids	
+SoilGrids_Silt_content	SoilGrids silt content (%)	ISRIC_Soilgrids	
+SoilGrids_Sand_content	SoilGrids sand content (%)	ISRIC_Soilgrids	
+Soil_salinity_Ece	Soil salinity Ece (dS m 1)	Soil_salinity_Ece	
+Soil_sodicity_ESP	Soil sodicity ESP (%)	Soil_sodicity_ESP	
