@@ -17,4 +17,4 @@ The environmental dataset compiled in our study is available using the download 
 **-Ferrero-Serrano, Á & Assmann SM.** (2019) Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5.
 
 
-[<img align="left" src="https://github.com/CLIMtools/AraCLIM-V2/blob/main/www/Screen_Shot.png">](https://gramene.org/CLIMtools/arabidopsis_v2.0/AraCLIM-V2 "AraCLIM")
+[<img align="left" src="https://github.com/CLIMtools/AOryzaCLIM/blob/main/www/OryzaCLIMlogo">](https://gramene.org/CLIMtools/arabidopsis_v2.0/AraCLIM-V2 "AraCLIM")
