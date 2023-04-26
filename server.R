@@ -312,14 +312,14 @@ shinyServer(function(input, output) {
 
       output$downloadData <- downloadHandler(
         filename = function() { 
-          paste("AraCLIM V2.0_", Sys.Date(), ".csv", sep="")
+          paste("OryzaCLIM_", Sys.Date(), ".csv", sep="")
         },
         content = function(file) {
           write.csv(readfile, file)
         })
       output$downloadData2 <- downloadHandler(
         filename = function() { 
-          paste("AraCLIM V2.0_Environmental descriptors_", Sys.Date(), ".csv", sep="")
+          paste("OryzaCLIM_Environmental descriptors_", Sys.Date(), ".csv", sep="")
         },
         content = function(file) {
           write.csv(readfile2, file)
