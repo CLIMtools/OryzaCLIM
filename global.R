@@ -12,14 +12,6 @@ require(rgdal)
 require(Cairo)
 library(sp)
 library(htmltools)
-# library(shinyauthr)
-# dataframe that holds usernames, passwords and other user data
-# user_base <- tibble::tibble(
-#   user = c("user1", "user2"),
-#   password = c("pass1", "pass2"),
-#   permissions = c("reviewer", "standard"),
-#   name = c("reviewer", "User Two")
-# )
 
 
 readfile <- read.csv("data/OryzaCLIM_data.csv",row.names = NULL)
