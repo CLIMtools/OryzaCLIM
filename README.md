@@ -15,3 +15,5 @@ The environmental dataset compiled in our study is available using the download 
 **-Ángel Ferrero-Serrano, David Chakravorty, Kobie J Kirven & Sarah M Assmann** (2022). Oryza CLIMtools: An Online Portal for Investigating Genome-Environment Associations in Rice. Under review in Genome Biology. bioRxiv 2023.05.10.540241; doi: https://doi.org/10.1101/2023.05.10.540241
 
 [<img align="left" src="https://github.com/CLIMtools/OryzaCLIM/blob/main/www/Screen_Shot.png">](https://gramene.org/CLIMtools/oryza_v1.0/OryzaCLIM/ "OryzaCLIM")
+
+[<img align="left" width="150" height="175" src="https://github.com/CLIMtools/OryzaCLIM/blob/main/www/Screen_Shot.png">](https://gramene.org/CLIMtools/oryza_v1.0/OryzaCLIM/ "OryzaCLIM")
