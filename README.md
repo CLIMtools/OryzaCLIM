@@ -14,7 +14,4 @@ The environmental dataset compiled in our study is available using the download 
 ## Citation
 **-Ferrero‑Serrano,Á, Sylvia, MM, Forstmeier, PC, Olson, AJ, Ware, D,Bevilacqua, PC & Assmann, SM** (2022). Experimental demonstration and pan‑structurome prediction of climate‑associated riboSNitches in Arabidopsis. Under review in Genome Biology.
 
-**-Ferrero-Serrano, Á & Assmann SM.** (2019) Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5.
-
-
-[<img align="left" src="https://github.com/CLIMtools/OryzaCLIM/blob/main/www/Screen_Shot.png">](https://gramene.org/CLIMtools/oryza_v1.0/OryzaCLIM/ "AraCLIM")
+[<img align="left" src="https://github.com/CLIMtools/OryzaCLIM/blob/main/www/Screen_Shot.png">](https://gramene.org/CLIMtools/oryza_v1.0/OryzaCLIM/ "OryzaCLIM V1")
