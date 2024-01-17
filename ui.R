@@ -23,7 +23,7 @@ shinyUI(fluidPage(
   # Add Javascript
   tags$head(
     tags$link(rel="stylesheet", type="text/css",href="style.css"),
-    tags$head(includeScript("google-analytics.html")),
+    tags$head(includeHTML("google-analytics.html")),
     tags$script('!function(d,s,id){var js,fjs=d.getElementsByTagName(s)    [0],p=/^http:/.test(d.location)?\'http\':\'https\';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");')
     
   ),
