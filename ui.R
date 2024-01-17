@@ -23,29 +23,34 @@ shinyUI(fluidPage(
   # Add Javascript
   tags$head(
     tags$link(rel="stylesheet", type="text/css",href="style.css"),
-    tags$head(includeScript("google-analytics.js")),
+    tags$head(includeScript("google-analytics.html")),
     tags$script('!function(d,s,id){var js,fjs=d.getElementsByTagName(s)    [0],p=/^http:/.test(d.location)?\'http\':\'https\';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");')
     
   ),
   useShinyjs(),
   
   uiOutput("app"),
-  headerPanel(
+   headerPanel(
     list(
-      tags$head(tags$style("body {background-color: white;}")),
+      tags$head(
+        tags$style(
+          "body {background-color: white;}",
+          ".app-header {background-color: #88c274; padding: 50px;}",
+          ".app-title {color: white; font-size: 80px; margin-bottom: 10px;}",
+          ".app-subtitle {color: #2c3e50; font-size: 30px;}"
+        )
+      ),
       HTML(
-        '<div style="display: flex; align-items: center; height: 200px;">
-        <img src="OryzaCLIMlogo.png" height="150px" style="float:left"/>
-        <div style="display: flex; flex-direction: column;">
-          <p style="color: green; font-size: 60px;">OryzaCLIM</p>
-          <p style="color: black; font-size: 30px;">Explore the local environment of local rice landraces </p>
+        '<div class="app-header">
+        <img src="OryzaCLIM_logo2.png" height="225px" style="float:left; margin-left: -50px; margin-top: -40px;"/>
+        <div style="display: flex; flex-direction: column; margin-left: 10px;">
+          <p class="app-title">Oryza GenoCLIM</p>
+          <p class="app-subtitle">Find Your Gene’s Environmental Association</p>
         </div>
       </div>'
       )
     )
-  )
-  
-  ,
+  ),
   
   theme = shinytheme("readable") , 
   
