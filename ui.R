@@ -35,7 +35,7 @@ shinyUI(fluidPage(
       tags$head(
         tags$style(
           "body {background-color: white;}",
-          ".app-header {background-color: #2c870c; padding: 50px;}",
+          ".app-header {background-color: #32ff32; padding: 50px;}",
           ".app-title {color: white; font-size: 80px; margin-bottom: 10px;}",
           ".app-subtitle {color: #2c3e50; font-size: 30px;}"
         )
