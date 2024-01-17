@@ -35,7 +35,7 @@ shinyUI(fluidPage(
       tags$head(
         tags$style(
           "body {background-color: white;}",
-          ".app-header {background-color: #88c274; padding: 50px;}",
+          ".app-header {background-color: #2c870c; padding: 50px;}",
           ".app-title {color: white; font-size: 80px; margin-bottom: 10px;}",
           ".app-subtitle {color: #2c3e50; font-size: 30px;}"
         )
@@ -44,8 +44,8 @@ shinyUI(fluidPage(
         '<div class="app-header">
         <img src="OryzaCLIM_logo2.png" height="225px" style="float:left; margin-left: -50px; margin-top: -40px;"/>
         <div style="display: flex; flex-direction: column; margin-left: 10px;">
-          <p class="app-title">Oryza GenoCLIM</p>
-          <p class="app-subtitle">Find Your Gene’s Environmental Association</p>
+          <p class="app-title">OryzaCLIM</p>
+          <p class="app-subtitle">Explore the local environment of local rice landraces</p>
         </div>
       </div>'
       )
